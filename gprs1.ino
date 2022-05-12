@@ -8,7 +8,7 @@ pinMode(pot2,INPUT);
 Serial.begin(9600);
 Serial.println("start");
 
-
+Serial.println("222222");
 Serial.println("AT+CSQ");
 
 delay(100);
